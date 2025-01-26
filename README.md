@@ -16,7 +16,7 @@ Virtual Private Cloud (VPC): Which is a dedicated network space for AWS resource
 
 Subnets: Public and private subnets for managing traffic flows and isolating resources.
 
-Internet Gateway (IGW): This resources allows public internet access from the VPC.
+Internet Gateway (IGW): This resources allows public internet access to the VPC.
 
 Route Tables (RT): This resource was configured for public and private subnets to route traffic appropriately.
 
